@@ -1,9 +1,9 @@
 import React from 'react'
 import Product from './Product'
-import Pc1 from '../assets/pc1.jpg'
-import shoe from '../assets/shoe.jpg'
-import watch from '../assets/watch.jpg'
-import molfix from '../assets/molfix.jpg'
+import Pc1 from '../../assets/pc1.jpg'
+import shoe from '../../assets/shoe.jpg'
+import watch from '../../assets/watch.jpg'
+import molfix from '../../assets/molfix.jpg'
 
 const Category = () => {
     return (

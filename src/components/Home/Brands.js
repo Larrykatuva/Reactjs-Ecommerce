@@ -1,9 +1,9 @@
 import React from 'react'
 import Product from './Product'
-import dwa from '../assets/dwa.jpg'
-import cooker from '../assets/cooker.jpg'
-import s7 from '../assets/s7.jpg'
-import smart from '../assets/smart.jpg'
+import dwa from '../../assets/dwa.jpg'
+import cooker from '../../assets/cooker.jpg'
+import s7 from '../../assets/s7.jpg'
+import smart from '../../assets/smart.jpg'
 
 const Brands = () => {
     return (

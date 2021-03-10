@@ -1,8 +1,9 @@
 import React from 'react'
 import { Carousel } from 'react-bootstrap'
-import guc from '../assets/guc.jpg'
-import pc from '../assets/pc.jpg'
-import watch from '../assets/watch.jpg'
+import guc from '../../assets/guc.jpg'
+import pc from '../../assets/pc.jpg'
+import watch from '../../assets/watch.jpg'
+import smart from '../../assets/smart.jpg'
 
 const Carousels = () => {
     return (
@@ -29,7 +30,7 @@ const Carousels = () => {
                         <a href="" id="btn">Get it now</a>
                     </div>
                     <div id="carousel-right">
-                        <img src={watch} alt=""/>
+                        <img src={smart} alt=""/>
                     </div>
                 </div>
             </Carousel.Item>
